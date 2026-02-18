@@ -98,10 +98,6 @@ The directory structure of the project looks like this:
 └── tasks.py                  # Project tasks
 ```
 
+## Resources
 
-## Resources 
-
-- Folder **resources**
-- **Textbook:** [Powell – Sequential Decision Analytics and Modeling (2022)](https://castle.princeton.edu/wp-content/uploads/2022/11/Powell-SDAM-Nov242022_final_w_frontcover.pdf)
-- **Code:** [Stochastic Optimization GitHub](https://github.com/wbpowell328/stochastic-optimization)
-- **DTU course reference:** [RL course](https://02465material.pages.compute.dtu.dk/02465public/index.html)
+The resources utilized in this course are displayed with an overview [here](resources/resources.md).
